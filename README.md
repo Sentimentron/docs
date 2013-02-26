@@ -1,4 +1,4 @@
-docs
+Documentation
 ====
 
-Additional documentation for Sentimentron, and its pysen and pydate technologies
+This documentation contains additional documentation for Sentimentron, and its pysen and pydate technologies.
